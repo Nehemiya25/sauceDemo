@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <NUnit>
+    <NumberOfTestWorkers>2</NumberOfTestWorkers>
+    <BASE_ADDRESS>https://rta-edu-stg-web-03.azurewebsites.net/core<BASE_ADDRESS>
+    <BROWSER_TYPE>Webkit</BROWSER_TYPE>
+  </NUnit>
+</RunSettings>
